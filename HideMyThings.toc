@@ -1,0 +1,6 @@
+## Interface: 120000
+## Title: HideMyThings
+## Notes: Hardcoded Ghost UI (Player/Target/Bars/Tracker).
+## Author: Danderlion
+
+HideMyThings.lua
